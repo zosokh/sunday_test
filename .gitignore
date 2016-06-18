@@ -9,5 +9,6 @@
 build/
 nbproject
 vendor
-var/tmp/*
-var/log/*
+var/tmp/*/*
+var/log/*log
+var/log/*/*
